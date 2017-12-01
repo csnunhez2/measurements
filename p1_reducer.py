@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from operator import itemgetter  # No lo esta usando
 import sys
 
 higher_city = ""
